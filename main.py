@@ -12,9 +12,9 @@ API_HASH = "c30b58319bd6324ce1ce6446e7f07f4e"
 
 bot = Client(
     "replacer",
-    api_id=APP_ID,
-    api_hash=API_HASH,
-    bot_token=BOT_TOKEN,
+    api_id=38463427,
+    api_hash=c30b58319bd6324ce1ce6446e7f07f4e,
+    bot_token=8068958997:AAGEKujl7x1syRBsdQpOkeMg0qGzWkCvVDQ,
 )
 
 @bot.on_message(filters.command('replace'))
